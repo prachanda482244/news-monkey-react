@@ -11,6 +11,8 @@
 # production
 /build
 
+#own file
+/sample.js
 # misc
 .DS_Store
 .env.local
